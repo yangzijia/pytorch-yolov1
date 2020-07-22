@@ -4,9 +4,9 @@
 
 ​	pytorch ==1.2.0
 
+​	数据集下载：链接：https://pan.baidu.com/s/11GvovzqVydZxAYySmAeyxA  提取码：qj46
 
-
-​	我的数据集只有两类（数据集下载[地址](https://download.pytorch.org/whl/cu100/torch_stable.html)），circle 和 rectangle ，1000张图片训练50轮的效果如下
+​	我的数据集只有两类，circle 和 rectangle ，1000张图片训练50轮的效果如下
 
 ​	（还没有认真调试，效果很差）
 
